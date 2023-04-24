@@ -2,12 +2,19 @@
 layout: default
 ---
 
+<section class="layout">
+  <div class="header">1</div>
+  <div class="main">2</div>
+  <div class="footer">3</div>
+</section>
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
+  
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
