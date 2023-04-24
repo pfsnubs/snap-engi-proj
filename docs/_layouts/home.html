@@ -2,25 +2,6 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="home" href="home.css">
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-
-<section class="layout">
-  <div class="header">1</div>
-  <div class="main">2</div>
-  <div class="footer">3</div>
-</section>
-
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -48,7 +29,8 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+    <!-- ^^ no longer needed as we are not using RSS feed for our website -->
   {%- endif -%}
 
 </div>
