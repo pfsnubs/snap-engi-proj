@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Oc & Lau is a family-owned Vietnamese restaurant that serves fresh sea-food and hotpots.
+Located on 10130 Garden Grove Blvd, Garden Grove, CA 92843.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Opening Hours:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Monday	10 AM–10 PM
+Wednesday	10 AM–10 PM
+Thursday	10 AM–10 PM
+Friday	10 AM–11 PM
+Saturday	10 AM–11 PM
+Sunday	10 AM–10 PM
