@@ -21,7 +21,7 @@
 title: Oc & Lau
 description: >- # this means to ignore newlines until "baseurl:"
   About the Business
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "snap-engi-proj" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
