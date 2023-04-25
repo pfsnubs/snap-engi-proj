@@ -1,0 +1,7 @@
+body {
+    color: navy;
+    margin-left: 20px;
+    background-color: lightblue;
+    background-image: url("../../assets/images/OcLauRestaurant.jpg");
+    opacity: 0.5;
+}
